@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\git\BKIT\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.exe
+\\Mac\Home\Desktop\git\BKIT\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.deps.json
+\\Mac\Home\Desktop\git\BKIT\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.runtimeconfig.json
+\\Mac\Home\Desktop\git\BKIT\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.runtimeconfig.dev.json
+\\Mac\Home\Desktop\git\BKIT\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.dll
+\\Mac\Home\Desktop\git\BKIT\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.pdb
+\\Mac\Home\Desktop\git\BKIT\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\git\BKIT\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\git\BKIT\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.AssemblyInfo.cs
+\\Mac\Home\Desktop\git\BKIT\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.dll
+\\Mac\Home\Desktop\git\BKIT\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.pdb
